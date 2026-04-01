@@ -27,8 +27,3 @@ class Solution:
             seen.add(num)
         return False
 
-arr = [1, 2, 3, 3]
-
-ob = Solution()
-print(ob.hasDuplicate_set_len(arr))
-print(ob.hasDuplicate_hash(arr))
