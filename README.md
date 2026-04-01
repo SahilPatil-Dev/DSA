@@ -22,8 +22,8 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 | Topic               | Solved | Status        |
 | ------------------- | ------ | ------------- |
 | Arrays              | 1      | 🟢 Started    |
-| Hashing             | 1      | 🟢 Started    |
-| Strings             | 0      | ⚪ Not Started |
+| Hashing             | 2      | 🟢 Started    |
+| Strings             | 1      | 🟢 Started    |
 | Sliding Window      | 0      | ⚪ Not Started |
 | Two Pointers        | 0      | ⚪ Not Started |
 | Stack               | 0      | ⚪ Not Started |
@@ -31,6 +31,20 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 | Trees               | 0      | ⚪ Not Started |
 | Graphs              | 0      | ⚪ Not Started |
 | Dynamic Programming | 0      | ⚪ Not Started |
+
+---
+
+## ✅ Solved Problems
+
+### Arrays
+- Contains Duplicate
+
+### Hashing
+- Contains Duplicate  
+- Valid Anagram  
+
+### Strings
+- Valid Anagram
 
 ---
 
