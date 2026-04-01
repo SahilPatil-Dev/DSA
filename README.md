@@ -21,8 +21,8 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 
 | Topic               | Solved | Status        |
 | ------------------- | ------ | ------------- |
-| Arrays              | 1      | 🟢 Started    |
-| Hashing             | 2      | 🟢 Started    |
+| Arrays              | 2      | 🟢 Started    |
+| Hashing             | 3      | 🟢 Started    |
 | Strings             | 1      | 🟢 Started    |
 | Sliding Window      | 0      | ⚪ Not Started |
 | Two Pointers        | 0      | ⚪ Not Started |
@@ -37,14 +37,16 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 ## ✅ Solved Problems
 
 ### Arrays
-- Contains Duplicate
+- Contains Duplicate  - [Contains Duplicate](./Arrays/contains_duplicate.py)
+- Two Sum  - [Two Sum](./Arrays/two_sum.py)
 
 ### Hashing
 - Contains Duplicate  
-- Valid Anagram  
+- Valid Anagram  - [Valid Anagram](./Hashing/valid_anagram.py)
+- Two Sum  - [Two Sum](./Arrays/two_sum.py)
 
 ### Strings
-- Valid Anagram
+- Valid Anagram  - [Valid Anagram](./Hashing/valid_anagram.py)
 
 ---
 
