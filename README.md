@@ -25,6 +25,7 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 | Valid Anagram | Hashing, Strings |
 | Two Sum | Arrays, Hashing |
 | Group Anagrams | Hashing, Strings |
+| Top K Frequent Elements | Arrays, Hashing, Heap |
 
 ---
 
@@ -33,16 +34,21 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 ### Arrays
 - Contains Duplicate  - [Contains Duplicate](./Arrays/contains_duplicate.py)
 - Two Sum  - [Two Sum](./Arrays/two_sum.py)
+- Top K Frequent Elements - [Top K Frequent Elements](./Hashing/top_k_frequent_elements.py)
 
 ### Hashing
 - Contains Duplicate  - [Contains Duplicate](./Arrays/contains_duplicate.py)
 - Valid Anagram  - [Valid Anagram](./Hashing/valid_anagram.py)
 - Two Sum  - [Two Sum](./Arrays/two_sum.py)
 - Group Anagrams  - [Group Anagrams](./Hashing/group_anagrams.py)
+- Top K Frequent Elements  - [Top K Frequent Elements](./Hashing/top_k_frequent_elements.py)
 
 ### Strings
 - Valid Anagram  - [Valid Anagram](./Hashing/valid_anagram.py)
 - Group Anagrams  - [Group Anagrams](./Hashing/group_anagrams.py)
+
+### Heap
+- Top K Frequent Elements  - [Top K Frequent Elements](./Hashing/top_k_frequent_elements.py)
 
 ---
 
