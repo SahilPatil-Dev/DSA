@@ -17,20 +17,14 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 
 ---
 
-## 🧠 Topics & Progress
+## 📌 All Problems
 
-| Topic               | Solved | Status        |
-| ------------------- | ------ | ------------- |
-| Arrays              | 2      | 🟢 Started    |
-| Hashing             | 3      | 🟢 Started    |
-| Strings             | 1      | 🟢 Started    |
-| Sliding Window      | 0      | ⚪ Not Started |
-| Two Pointers        | 0      | ⚪ Not Started |
-| Stack               | 0      | ⚪ Not Started |
-| Linked List         | 0      | ⚪ Not Started |
-| Trees               | 0      | ⚪ Not Started |
-| Graphs              | 0      | ⚪ Not Started |
-| Dynamic Programming | 0      | ⚪ Not Started |
+| Problem | Topics |
+|--------|--------|
+| Contains Duplicate | Arrays, Hashing |
+| Valid Anagram | Hashing, Strings |
+| Two Sum | Arrays, Hashing |
+| Group Anagrams | Hashing, Strings |
 
 ---
 
@@ -41,12 +35,14 @@ Problems are solved from platforms like **LeetCode, NeetCode, and HackerRank**, 
 - Two Sum  - [Two Sum](./Arrays/two_sum.py)
 
 ### Hashing
-- Contains Duplicate  
+- Contains Duplicate  - [Contains Duplicate](./Arrays/contains_duplicate.py)
 - Valid Anagram  - [Valid Anagram](./Hashing/valid_anagram.py)
 - Two Sum  - [Two Sum](./Arrays/two_sum.py)
+- Group Anagrams  - [Group Anagrams](./Hashing/group_anagrams.py)
 
 ### Strings
 - Valid Anagram  - [Valid Anagram](./Hashing/valid_anagram.py)
+- Group Anagrams  - [Group Anagrams](./Hashing/group_anagrams.py)
 
 ---
 
